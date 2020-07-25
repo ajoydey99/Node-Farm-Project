@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoydey99/Node-Farm-Project.git"
+  },
+  "author": "Ajoy Dey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoydey99/Node-Farm-Project/issues"
+  },
+  "homepage": "https://github.com/ajoydey99/Node-Farm-Project#readme",
+  "dependencies": {
+    "slugify": "~1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
