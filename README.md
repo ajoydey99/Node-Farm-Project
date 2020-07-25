@@ -6,4 +6,4 @@ This is a simple node project using basics of node js.
 
 _Visual Studio Code_
 
-### Release Info: _version 1.3_
+### Release Info: _version 1.4_
